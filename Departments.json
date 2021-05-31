@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b16"
+  },
+  "Dname": "Research",
+  "Dnumber": 5,
+  "MgrDetails": {
+    "Fname": "Franklin",
+    "Lname": "Wong"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Franklin",
+      "Lname": "Wong",
+      "Salary": 40000
+    },
+    {
+      "Fname": "John",
+      "Lname": "Smith",
+      "Salary": 30000
+    },
+    {
+      "Fname": "Ramesh",
+      "Lname": "Narayan",
+      "Salary": 38000
+    },
+    {
+      "Fname": "Joyce",
+      "Lname": "English",
+      "Salary": 25000
+    },
+    {
+      "Fname": "Michael",
+      "Lname": "Morgan",
+      "Salary": 73500
+    },
+    {
+      "Fname": "Andrea",
+      "Lname": "Sondrini",
+      "Salary": 65000
+    },
+    {
+      "Fname": "James",
+      "Lname": "Miller",
+      "Salary": 75000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b17"
+  },
+  "Dname": "Administration",
+  "Dnumber": 4,
+  "MgrDetails": {
+    "Fname": "Jennifer",
+    "Lname": "Wallace"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Jennifer",
+      "Lname": "Wallace",
+      "Salary": 43000
+    },
+    {
+      "Fname": "Alicia",
+      "Lname": "Zelaya",
+      "Salary": 25000
+    },
+    {
+      "Fname": "Ahmad",
+      "Lname": "Jabbar",
+      "Salary": 25000
+    },
+    {
+      "Fname": "Wilson",
+      "Lname": "Holmes",
+      "Salary": 72500
+    },
+    {
+      "Fname": "Cameron",
+      "Lname": "Thirteen",
+      "Salary": 80000
+    },
+    {
+      "Fname": "Richard",
+      "Lname": "Koelbel",
+      "Salary": 85000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b18"
+  },
+  "Dname": "Headquarters",
+  "Dnumber": 1,
+  "MgrDetails": {
+    "Fname": "James",
+    "Lname": "Borg"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "James",
+      "Lname": "Borg",
+      "Salary": 55000
+    },
+    {
+      "Fname": "Jisha",
+      "Lname": "Carpenter",
+      "Salary": 15000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b19"
+  },
+  "Dname": "Software",
+  "Dnumber": 6,
+  "MgrDetails": {
+    "Fname": "Jared",
+    "Lname": "James"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Jared",
+      "Lname": "James",
+      "Salary": 85000
+    },
+    {
+      "Fname": "Jon",
+      "Lname": "Jones",
+      "Salary": 45000
+    },
+    {
+      "Fname": "Justin",
+      "Lname": "Mark",
+      "Salary": 40000
+    },
+    {
+      "Fname": "Brad",
+      "Lname": "Knight",
+      "Salary": 44000
+    },
+    {
+      "Fname": "Kim",
+      "Lname": "Grace",
+      "Salary": 79000
+    },
+    {
+      "Fname": "Jeff",
+      "Lname": "Chase",
+      "Salary": 44000
+    },
+    {
+      "Fname": "Nandita",
+      "Lname": "Ball",
+      "Salary": 62000
+    },
+    {
+      "Fname": "John",
+      "Lname": "Ed",
+      "Salary": 30000
+    },
+    {
+      "Fname": "Jose",
+      "Lname": "Barbara",
+      "Salary": 35000
+    },
+    {
+      "Fname": "Penny",
+      "Lname": "Wolowitz",
+      "Salary": 17000
+    },
+    {
+      "Fname": "Debra",
+      "Lname": "Hall",
+      "Salary": 30000
+    },
+    {
+      "Fname": "Jake",
+      "Lname": "Sheen",
+      "Salary": 52000
+    },
+    {
+      "Fname": "Cindy",
+      "Lname": "Burklow",
+      "Salary": 45000
+    },
+    {
+      "Fname": "Zach",
+      "Lname": "Geller",
+      "Salary": 55000
+    },
+    {
+      "Fname": "Alex",
+      "Lname": "Yu",
+      "Salary": 50000
+    },
+    {
+      "Fname": "Christina",
+      "Lname": "Hisel",
+      "Salary": 45000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b1a"
+  },
+  "Dname": "Hardware",
+  "Dnumber": 7,
+  "MgrDetails": {
+    "Fname": "Alex",
+    "Lname": "Freed"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Alex",
+      "Lname": "Freed",
+      "Salary": 89000
+    },
+    {
+      "Fname": "Evan",
+      "Lname": "Wallis",
+      "Salary": 92000
+    },
+    {
+      "Fname": "Josh",
+      "Lname": "Zell",
+      "Salary": 56000
+    },
+    {
+      "Fname": "Andy",
+      "Lname": "Vile",
+      "Salary": 53000
+    },
+    {
+      "Fname": "Tom",
+      "Lname": "Brand",
+      "Salary": 62500
+    },
+    {
+      "Fname": "Jenny",
+      "Lname": "Vos",
+      "Salary": 61000
+    },
+    {
+      "Fname": "Chris",
+      "Lname": "Carter",
+      "Salary": 43000
+    },
+    {
+      "Fname": "Bonnie",
+      "Lname": "Bays",
+      "Salary": 70000
+    },
+    {
+      "Fname": "Alec",
+      "Lname": "Best",
+      "Salary": 60000
+    },
+    {
+      "Fname": "Sam",
+      "Lname": "Snedden",
+      "Salary": 48000
+    },
+    {
+      "Fname": "Gregory",
+      "Lname": "Laurie",
+      "Salary": 90000
+    },
+    {
+      "Fname": "Lisa",
+      "Lname": "House",
+      "Salary": 85000
+    },
+    {
+      "Fname": "Leonard",
+      "Lname": "Moody",
+      "Salary": 45000
+    },
+    {
+      "Fname": "Joseph",
+      "Lname": "Kirkish",
+      "Salary": 95000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b1b"
+  },
+  "Dname": "Sales",
+  "Dnumber": 8,
+  "MgrDetails": {
+    "Fname": "John",
+    "Lname": "James"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "John",
+      "Lname": "James",
+      "Salary": 81000
+    },
+    {
+      "Fname": "Bob",
+      "Lname": "Bender",
+      "Salary": 96000
+    },
+    {
+      "Fname": "Kate",
+      "Lname": "King",
+      "Salary": 44000
+    },
+    {
+      "Fname": "Lyle",
+      "Lname": "Leslie",
+      "Salary": 41000
+    },
+    {
+      "Fname": "Billie",
+      "Lname": "King",
+      "Salary": 38000
+    },
+    {
+      "Fname": "Megan",
+      "Lname": "Jones",
+      "Salary": 62000
+    },
+    {
+      "Fname": "Jon",
+      "Lname": "Kramer",
+      "Salary": 41500
+    },
+    {
+      "Fname": "Gerald",
+      "Lname": "Small",
+      "Salary": 29000
+    },
+    {
+      "Fname": "Arnold",
+      "Lname": "Head",
+      "Salary": 33000
+    },
+    {
+      "Fname": "Helga",
+      "Lname": "Pataki",
+      "Salary": 32000
+    },
+    {
+      "Fname": "Naveen",
+      "Lname": "Drew",
+      "Salary": 34000
+    },
+    {
+      "Fname": "Carl",
+      "Lname": "Reedy",
+      "Salary": 32000
+    },
+    {
+      "Fname": "Sammy",
+      "Lname": "Hall",
+      "Salary": 37000
+    },
+    {
+      "Fname": "Red",
+      "Lname": "Bacher",
+      "Salary": 33500
+    },
+    {
+      "Fname": "Roy",
+      "Lname": "Lewallen",
+      "Salary": 75500
+    },
+    {
+      "Fname": "Jennifer",
+      "Lname": "Joy",
+      "Salary": 45000
+    },
+    {
+      "Fname": "Erin",
+      "Lname": "Maxfield",
+      "Salary": 72000
+    },
+    {
+      "Fname": "Sheldon",
+      "Lname": "Cucuou",
+      "Salary": 35500
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b1c"
+  },
+  "Dname": "HR",
+  "Dnumber": 9,
+  "MgrDetails": {
+    "Fname": "Juan",
+    "Lname": "Linda"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Jill",
+      "Lname": "Jarvis",
+      "Salary": 36000
+    },
+    {
+      "Fname": "Ray",
+      "Lname": "King",
+      "Salary": 44500
+    },
+    {
+      "Fname": "Kim",
+      "Lname": "Ted",
+      "Salary": 50000
+    },
+    {
+      "Fname": "Juan",
+      "Lname": "Linda",
+      "Salary": 55000
+    },
+    {
+      "Fname": "willie",
+      "Lname": "Mary",
+      "Salary": 12000
+    },
+    {
+      "Fname": "Johny",
+      "Lname": "Smith",
+      "Salary": 65000
+    },
+    {
+      "Fname": "Percy",
+      "Lname": "Liang",
+      "Salary": 55000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b1d"
+  },
+  "Dname": "Networking",
+  "Dnumber": 3,
+  "MgrDetails": {
+    "Fname": "Sunil",
+    "Lname": "Gupta"
+  },
+  "DeptEmpl": [
+    {
+      "Fname": "Sunil",
+      "Lname": "Gupta",
+      "Salary": 80000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f28afceb112a73804f31b1e"
+  },
+  "Dname": "QA",
+  "Dnumber": 11,
+  "MgrDetails": {
+    "Fname": "Joseph",
+    "Lname": "Kirkish"
+  },
+  "DeptEmpl": []
+}]
